@@ -23,5 +23,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbhimanueYT&icon=0&color=8)](https://visitcount.itsvg.in)
+[![](https://visitcountpro.netlify.app/api?id=AbhimanueYT&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
