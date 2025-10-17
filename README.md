@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-I explore technology the way others explore mountains. Every line of code is a step toward understanding both machines and myself.<br><br><br>I enjoy working on projects that matter, where every line of code contributes to solving real-world challenges.
+I explore technology the way others explore mountains. Every line of code is a step toward understanding both machines and myself.<br><br>I enjoy working on projects that matter, where every line of code contributes to solving real-world challenges.
 
 
 ## 🌐 Socials:
