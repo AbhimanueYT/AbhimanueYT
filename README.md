@@ -25,7 +25,7 @@
 ![](https://github-contributor-stats.vercel.app/api?username=AbhimanueYT&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcountpro.netlify.app/api?id=AbhimanueYT&pretty=true)](https://visitcount.itsvg.in)
+[![](https://visitcountpro.netlify.app/api?id=AbhimanueYT&icon=5&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
