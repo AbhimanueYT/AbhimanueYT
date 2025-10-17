@@ -1,3 +1,6 @@
+[![](https://raw.githubusercontent.com/abhimanueyt/abhimanueyt/master/profile.gif)]([https://www.adamalston.com/](https://abhimanueyt.github.io/Portfolio/))<!-- If you want the template for my gif, email me! -->
+
+
 # 💫 About Me:
  Computer Science Engineer Student | Coding Enthusiast | Passionate About Hardware, Video Editing & Animation | Creating Tech-Powered Solutions
 
