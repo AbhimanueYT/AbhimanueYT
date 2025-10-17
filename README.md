@@ -51,5 +51,6 @@ I explore technology the way others explore mountains. Every line of code is a s
 
 ---
 [![](https://visitcount.itsvg.in/api?id=AbhimanueYT&icon=5&color=6)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=AbhimanueYT&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS&base=500&abbreviated=true)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
