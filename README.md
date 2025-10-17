@@ -1,4 +1,4 @@
-[![](https://raw.githubusercontent.com/abhimanueyt/abhimanueyt/master/profile.gif)]([https://www.adamalston.com/](https://abhimanueyt.github.io/Portfolio/))<!-- If you want the template for my gif, email me! -->
+[![](https://raw.githubusercontent.com/abhimanueyt/abhimanueyt/master/profile.gif)](https://abhimanueyt.github.io/Portfolio/)
 
 
 # 💫 About Me:
