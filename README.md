@@ -4,6 +4,9 @@
 # 💫 About Me:
 I explore technology the way others explore mountains. Every line of code is a step toward understanding both machines and myself.<br><br>I enjoy working on projects that matter, where every line of code contributes to solving real-world challenges.
 
+
+<!-- Center the social media icons -->
+
 <div class="socials-container">
   <a href="https://facebook.com/https://www.facebook.com/abhimanue.td.9">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
@@ -18,17 +21,21 @@ I explore technology the way others explore mountains. Every line of code is a s
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-.socials-container {
-  display: flex;
-  justify-content: center;
-  gap: 15px; /* Adds space between icons */
-  margin-top: 20px; /* Optional: Adjusts the distance from other elements */
-}
 
-.socials-container a img {
-  width: 40px; /* Optional: Adjusts icon size */
-  height: 40px; /* Optional: Adjusts icon size */
-}
+<style>
+  .socials-container {
+    display: flex;
+    justify-content: center;
+    gap: 15px; /* Adjusts spacing between icons */
+    margin-top: 20px; /* Optional: Adjusts the space above the icons */
+  }
+
+  .socials-container a img {
+    width: 40px; /* Optional: Adjusts the size of the icons */
+    height: 40px; /* Optional: Adjusts the size of the icons */
+  }
+</style>
+
 
 
 # 💻 Tech Stack:
