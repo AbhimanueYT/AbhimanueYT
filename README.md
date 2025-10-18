@@ -19,22 +19,20 @@
 I explore technology the way others explore mountains. Every line of code is a step toward understanding both machines and myself.<br><br>I enjoy working on projects that matter, where every line of code contributes to solving real-world challenges.
 
 
-<!-- Center the social media icons -->
-
-<div class="socials-container">
-  <a href="https://facebook.com/https://www.facebook.com/abhimanue.td.9">
-    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook" />
+<p align="center">
+  <a href="https://www.facebook.com/abhimanue.td.9">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" />
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/abhimanue_t.d/">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram" />
+  <a href="https://www.instagram.com/abhimanue_t.d/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/abhimanue-td-1904ba32a/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/abhimanue-td-1904ba32a/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:abhimanuetd@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
 
 
 
