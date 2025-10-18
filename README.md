@@ -1,7 +1,7 @@
 [![](https://raw.githubusercontent.com/abhimanueyt/abhimanueyt/master/profile.gif)](https://abhimanueyt.github.io/Portfolio/)
 
 # 💫 About Me:
-I explore technology the way others explore mountains. Every line of code is a step toward understanding both machines and myself.<br><br>I enjoy working on projects that matter, where every line of code contributes to solving real-world challenges.
+I explore technology the way others explore mountains. Every line of code is a step toward understanding both machines and myself.<br>I enjoy working on projects that matter, where every line of code contributes to solving real-world challenges.
 
 
 <p align="center">
@@ -81,7 +81,9 @@ I explore technology the way others explore mountains. Every line of code is a s
 
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AbhimanueYT&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AbhimanueYT&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+</p>
 
 ---
 <p align="center">
