@@ -26,8 +26,8 @@ I explore technology the way others explore mountains. Every line of code is a s
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img height="160" width="auto" src="https://github-readme-stats.vercel.app/api?username=AbhimanueYT&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000" alt="GitHub Stats" />
-  <img height="160" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhimanueYT&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" alt="Top Languages" />
+  <img height="180" width="auto" src="https://github-readme-stats.vercel.app/api?username=AbhimanueYT&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000" alt="GitHub Stats" />
+  <img height="180" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhimanueYT&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" alt="Top Languages" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=AbhimanueYT&theme=tokyonight&hide_border=true&background=FFFFFF00" alt="GitHub Streak" />
 </p>
@@ -36,7 +36,10 @@ I explore technology the way others explore mountains. Every line of code is a s
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbhimanueYT&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
 
 ---
 [![](https://visitcountpro.netlify.app/api?id=AbhimanueYT&icon=5&color=6)](https://visitcount.itsvg.in)
