@@ -1,5 +1,19 @@
 [![](https://raw.githubusercontent.com/abhimanueyt/abhimanueyt/master/profile.gif)](https://abhimanueyt.github.io/Portfolio/)
+<header>
+  <style>
+  .socials-container {
+    display: flex;
+    justify-content: center;
+    gap: 15px; /* Adjusts spacing between icons */
+    margin-top: 20px; /* Optional: Adjusts the space above the icons */
+  }
 
+  .socials-container a img {
+    width: 40px; /* Optional: Adjusts the size of the icons */
+    height: 40px; /* Optional: Adjusts the size of the icons */
+  }
+</style>
+</header>
 
 # 💫 About Me:
 I explore technology the way others explore mountains. Every line of code is a step toward understanding both machines and myself.<br><br>I enjoy working on projects that matter, where every line of code contributes to solving real-world challenges.
@@ -21,20 +35,6 @@ I explore technology the way others explore mountains. Every line of code is a s
     <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
-
-<style>
-  .socials-container {
-    display: flex;
-    justify-content: center;
-    gap: 15px; /* Adjusts spacing between icons */
-    margin-top: 20px; /* Optional: Adjusts the space above the icons */
-  }
-
-  .socials-container a img {
-    width: 40px; /* Optional: Adjusts the size of the icons */
-    height: 40px; /* Optional: Adjusts the size of the icons */
-  }
-</style>
 
 
 
