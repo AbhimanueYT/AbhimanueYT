@@ -72,11 +72,12 @@ I explore technology the way others explore mountains. Every line of code is a s
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img height="150" width="auto" src="https://github-readme-stats.vercel.app/api?username=AbhimanueYT&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&bg_color=00000000" alt="GitHub Stats" />
-  <img height="150" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhimanueYT&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact&bg_color=00000000" alt="Top Languages" />
+  <img height="150" width="auto" src="https://github-readme-stats.vercel.app/api?username=AbhimanueYT&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="Abhimanue's GitHub Stats" />
+  <img height="150" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhimanueYT&layout=compact&hide_border=true&theme=tokyonight&bg_color=00000000&langs_count=6" alt="Abhimanue's Top Languages" />
   <br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=AbhimanueYT&theme=tokyonight&hide_border=true&background=FFFFFF00" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=AbhimanueYT&theme=tokyonight&hide_border=true&background=FFFFFF00" alt="Abhimanue's GitHub Streak" />
 </p>
+
 
 
 ## 🏆 GitHub Trophies
