@@ -36,7 +36,7 @@ I explore technology the way others explore mountains. Every line of code is a s
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AbhimanueYT&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
---
+---
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
 </p>
