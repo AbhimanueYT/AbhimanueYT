@@ -1,6 +1,6 @@
 [![](https://raw.githubusercontent.com/abhimanueyt/abhimanueyt/master/profile.gif)](https://abhimanueyt.github.io/Portfolio/)
 
-# 💫 About Me:
+<!--# 💫 About Me:-->
 I explore technology the way others explore mountains. Every line of code is a step toward understanding both machines and myself.<br>I enjoy working on projects that matter, where every line of code contributes to solving real-world challenges.
 
 
@@ -77,7 +77,7 @@ I explore technology the way others explore mountains. Every line of code is a s
   <img src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" />
 </p>
 -->
-# 📊 GitHub Stats:
+<!--# 📊 GitHub Stats:-->
 
 <p align="center">
   <img height="150" width="auto" src="https://github-readme-stats.vercel.app/api?username=AbhimanueYT&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&hide=issues,contribs&bg_color=00000000" alt="Abhimanue's GitHub Stats" />
